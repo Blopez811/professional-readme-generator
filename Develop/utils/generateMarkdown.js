@@ -16,13 +16,13 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ## Table of Contents
-  * Description
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+  * [Description](https://github.com/${data.github}/${data.repo}#description)
+  * [Installation](https://github.com/${data.github}/${data.repo}#installation)
+  * [Usage](https://github.com/${data.github}/${data.repo}#usage)
+  * [License](https://github.com/${data.github}/${data.repo}#license)
+  * [Contributing](https://github.com/${data.github}/${data.repo}#contributing)
+  * [Tests](https://github.com/${data.github}/${data.repo}#tests)
+  * [Questions](https://github.com/${data.github}/${data.repo}#questions)
 
   ## Description
    ${data.description}
