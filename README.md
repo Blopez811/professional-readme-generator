@@ -1,5 +1,6 @@
 
   # Bens project
+  https://img.shields.io/badge/License-ODC_BY-brightgreen.svg
 
   ## Table of Contents
   * [Description](https://github.com/Blopez811/professional-readme-generator#description)
