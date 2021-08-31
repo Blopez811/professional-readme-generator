@@ -15,9 +15,34 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
+  ## Table of Contents
+  * Description
+  * Installation
+  * Usage
+  * License
+  * Contributing
+  * Tests
+  * Questions
+
   ## Description
    ${data.description}
 
+  ## Installation
+    ${data.installation}
+
+  ## Usage
+    ${data.usage}
+
+  ## License  
+
+  ## Contributing
+    ${data.contributing}
+
+  ## Tests
+    ${data.tests}
+
+  ## Questions
+  Click here to see ${data.github}'s page! https://github.com/${data.github}  
 `;
 }
 
