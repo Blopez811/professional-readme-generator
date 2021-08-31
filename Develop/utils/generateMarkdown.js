@@ -43,6 +43,7 @@ function generateMarkdown(data) {
 
   ## Questions
   Click here to see ${data.github}'s page! https://github.com/${data.github}  
+  Have any questions? Feel free to email me at ${data.email} and I will gladly answer you as soon as I can!
 `;
 }
 

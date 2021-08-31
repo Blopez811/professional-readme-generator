@@ -1,5 +1,5 @@
 
-  # Bens project
+  # Bens awesome project
 
   ## Table of Contents
   * Description
@@ -11,21 +11,22 @@
   * Questions
 
   ## Description
-   This is a readme generator and it works like a char
+   A readme generator created from the terminal
 
   ## Installation
-    download it no big deal
+    Download it and run it
 
   ## Usage
-    aww yeaa
+    run the index.js file with node, and then answer the questions you will be prompted with.
 
   ## License  
 
   ## Contributing
-    no thanks
+    No contributions are needed at this time
 
   ## Tests
-    no samples at this time
+    There are currently no tests for this application
 
   ## Questions
   Click here to see Blopez811's page! https://github.com/Blopez811  
+  Have any questions? Feel free to email me at benicio.lopez@gmail.com and I will gladly answer you as soon as I can!
