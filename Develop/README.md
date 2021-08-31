@@ -1,31 +1,31 @@
 
-  # Bens awesome project
+  # Ben's project
 
   ## Table of Contents
-  * Description
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+  * [Description](https://github.com/Blopez811/professional-readme-generator#description)
+  * [Installation](https://github.com/Blopez811/professional-readme-generator#installation)
+  * [Usage](https://github.com/Blopez811/professional-readme-generator#usage)
+  * [License](https://github.com/Blopez811/professional-readme-generator#license)
+  * [Contributing](https://github.com/Blopez811/professional-readme-generator#contributing)
+  * [Tests](https://github.com/Blopez811/professional-readme-generator#tests)
+  * [Questions](https://github.com/Blopez811/professional-readme-generator#questions)
 
   ## Description
-   A readme generator created from the terminal
+   This is a readme generator that takes input from the terminal 
 
   ## Installation
-    Download it and run it
+    install node and then run index.js with node 
 
   ## Usage
-    run the index.js file with node, and then answer the questions you will be prompted with.
+    Run this real good
 
   ## License  
 
   ## Contributing
-    No contributions are needed at this time
+    no contributions
 
   ## Tests
-    There are currently no tests for this application
+    no tests have been written at this time
 
   ## Questions
   Click here to see Blopez811's page! https://github.com/Blopez811  
