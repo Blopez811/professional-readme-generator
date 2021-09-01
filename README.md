@@ -1,33 +1,33 @@
 
-  # adf
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  # Ben's Project
+  
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
   ## Table of Contents
-  * [Description](https://github.com/adsf/asdf#description)
-  * [Installation](https://github.com/adsf/asdf#installation)
-  * [Usage](https://github.com/adsf/asdf#usage)
-  * [License](https://github.com/adsf/asdf#license)
-  * [Contributing](https://github.com/adsf/asdf#contributing)
-  * [Tests](https://github.com/adsf/asdf#tests)
-  * [Questions](https://github.com/adsf/asdf#questions)
+  * [Description](https://github.com/Blopez811/professional-readme-generator#description)
+  * [Installation](https://github.com/Blopez811/professional-readme-generator#installation)
+  * [Usage](https://github.com/Blopez811/professional-readme-generator#usage)
+  * [License](https://github.com/Blopez811/professional-readme-generator#license)
+  * [Contributing](https://github.com/Blopez811/professional-readme-generator#contributing)
+  * [Tests](https://github.com/Blopez811/professional-readme-generator#tests)
+  * [Questions](https://github.com/Blopez811/professional-readme-generator#questions)
 
   ## Description
-   adf
+   A readme generator with input from the terminal
 
   ## Installation
-    asdf
+    install inquirer and node to run this application
 
   ## Usage
-    asdf
+    run node on the index.js file and then answer the questions you are prompted. A professional readme will be generated based on your answers
 
   ## License  
-    This application is covered under the MIT license.
+    This application is covered under the Apache 2.0 license.
   ## Contributing
-    asdf
+    No contributions are currently needed
 
   ## Tests
-    asdf
+    No tests have been made 
 
   ## Questions
-  Click here to see adsf's page! https://github.com/adsf  
-  Have any questions? Feel free to email me at adsf and I will gladly answer you as soon as I can!
+  Click here to see Blopez811's page! https://github.com/Blopez811  
+  Have any questions? Feel free to email me at benicio.lopez@gmail.com and I will gladly answer you as soon as I can!
